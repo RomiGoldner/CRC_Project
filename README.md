@@ -3,7 +3,7 @@
 This project includes TCR-sequencing analysis for 3 different CRC datasets, one bulk datasets introduced here for the first time and two published single-cell datasets.
 
 <p align="center">
-<img src="plots/Figure 1 CRC Article.png" width="600" height="480">
+<img src="plots/Figure 1 CRC Article.png" width="640" height="480">
 </p>
 
 ## Installation and Usage
