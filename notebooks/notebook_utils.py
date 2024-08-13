@@ -1,6 +1,6 @@
 import seaborn as sns
 import matplotlib.pyplot as plt
-improt numpy as np
+import numpy as np
 import pandas as pd
 from sklearn.cluster import KMeans
 
@@ -40,7 +40,7 @@ def plot_CRC_unique_combination_heatmap(df, col1, col2, title, file_path):
     pivot_table = aggregated_data.pivot(col1, col2, 'Count')
 
     # set font size to 12
-    plt.rcParams.update({'font.size': 12})
+    plt.rcParams.update({'font.size': 18})
     
     # Visualize with a heatmap
     plt.figure(figsize=(10, 7))

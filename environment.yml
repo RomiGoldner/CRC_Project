@@ -281,4 +281,4 @@ dependencies:
       - yarl==1.9.4
       - zipp==3.18.1
       - zoofs==0.1.26
-prefix: /home/ubuntu/miniconda3/envs/codon_cvc_env
+prefix: /home/ubuntu/miniconda3/envs/CRC_Project_env
